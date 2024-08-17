@@ -1,2 +1,5 @@
 # JavaTrainBookingApp
-Mini Project in Java
+
+
+(CourseWork MiniProject)
+Java CLI Train Booking App 
